@@ -1,0 +1,12 @@
+.card {
+    width: 100px;
+    min-height: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid purple;
+}
+
+.card img {
+    width: 100%;
+}
+

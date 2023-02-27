@@ -1,0 +1,22 @@
+
+
+body {
+  margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0
+}
+
+.clear-theme {
+  background: rgb(209, 209, 209);
+  color: black;
+}
+
+.dark-theme {
+  background: black;
+  color: rgb(209, 209, 209);
+  
+}
+
